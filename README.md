@@ -4,7 +4,7 @@
 
 ## Skills
 
-Skills: linux | websecurity | forensics | docker | python |  mysql | flask  | and enough js to keep me alive
+Skills: linux | websecurity | forensics | docker | python |  mysql | flask  | javascript
 
 
 
