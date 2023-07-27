@@ -4,7 +4,7 @@
 
 ## Skills
 
-Skills: linux | websecurity | forensics | docker | python |  mysql | flask  | javascript
+Skills: linux | webapplication security | forensics | python |  mysql | javascript | networking
 
 
 
