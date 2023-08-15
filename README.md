@@ -13,7 +13,8 @@ Skills: linux | webapplication security | forensics | python |  mysql | javascri
 - 📫 You can email me at : abelbiketi@gmail.com 
 
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/f0rk3b0mb)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://ke.linkedin.com/in/abel-biketi-261212257)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/discord.svg' alt='discord' height='40'>](https://discordapp.com/users/888054460956422195) [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/rss.svg' alt='discord' height='40'>](https://f0rk3b0mb.github.io)
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/f0rk3b0mb)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://ke.linkedin.com/in/abel-biketi-261212257)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/discord.svg' alt='discord' height='40'>](https://discordapp.com/users/888054460956422195) [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/rss.svg' alt='discord' height='40'>](https://f0rk3b0mb.github.io) [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='discord' height='40'>](https://twitter.com/f0rk3b0mb)
+
 
 
 
