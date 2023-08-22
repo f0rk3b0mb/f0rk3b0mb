@@ -22,4 +22,5 @@ Skills: linux | webapplication security | forensics | python |  mysql | javascri
 
 ![dino](https://github.com/saadeghi/saadeghi/blob/master/dino.gif)
 
-![Visitor Count](https://profile-counter.glitch.me/f0rk3b0mb/count.svg)
+You are the ![Visitor Count](https://profile-counter.glitch.me/f0rk3b0mb/count.svg)  visitor
+ 
