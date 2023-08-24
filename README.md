@@ -20,6 +20,7 @@
 [![f0rk3b0mb](https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png)](https://www.buymeacoffee.com/f0rk3b0mb)
 
 
+---------------------------------------------
 
 ![dino](https://github.com/saadeghi/saadeghi/blob/master/dino.gif)
 
