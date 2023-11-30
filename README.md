@@ -4,8 +4,8 @@
 
 ## About me
 
-- 🔭 I’m currently a member of an online ctf team p3rf3ctr00t_ke and am currently learning bug bounty 
-- 🌱 I am a university cybersecurity student and a person with passion in  cybersecurity and tech in general 
+- 🔭 I’m currently a member of an online ctf team [p3rfectr00t_ke](https://x.com/p3rf3crr00t).
+- 🌱 I am a university cybersecurity student and a person with passion in  tech. 
 - 📫 You can email me at : abelbiketi@gmail.com 
 
 
