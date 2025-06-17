@@ -16,9 +16,5 @@
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/f0rk3b0mb"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="f0rk3b0mb" /></a></p>
 
-<br><br>
 
-![dino](https://github.com/saadeghi/saadeghi/blob/master/dino.gif)
-
-You are the ![Visitor Count](https://profile-counter.glitch.me/f0rk3b0mb/count.svg)  visitor
  
